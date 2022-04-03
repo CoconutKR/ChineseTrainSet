@@ -1,4 +1,4 @@
-# Chinese Train Set 유럽열차세트
+# Chinese Train Set 중국열차세트
 **중국열차세트**는 중국의 열차 차량을 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/ChineseTrainSet/releases)에서 다운로드할 수 있습니다.
 
