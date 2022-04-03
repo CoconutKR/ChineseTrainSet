@@ -7,20 +7,17 @@ sort(FEAT_TRAINS, [
     CRH380A,                   //1018
     CRH380AJ,                  //1019
     CRH380D,                   //1020
-    CRH430A,                   //1021
-    CRH430D,                   //1022
-    CRH600D,                   //1023
-    CR400,                     //1024
-    NJ2,                       //1025
+    CR400,                     //1021
+    NJ2,                       //1022
     
-    AD_Tranz_CAF_A,            //1026
-    MTR_AC_Cammall,            //1027
-    MTR_DC_Cammall,            //1028
-    MTR_CNR_Changchun,         //1029
-    MTR_CRRC,                  //1030
-    Hyundai_Rotem_Mitsubishi,  //1031
-    Hyundai_Rotem_R,           //1032
-    IKK_SP_1900,               //1033
+    AD_Tranz_CAF_A,            //1023
+    MTR_AC_Cammall,            //1024
+    MTR_DC_Cammall,            //1025
+    MTR_CNR_Changchun,         //1026
+    MTR_CRRC,                  //1027
+    Hyundai_Rotem_Mitsubishi,  //1028
+    Hyundai_Rotem_R,           //1029
+    IKK_SP_1900,               //1030
 
     CHT_1F_Passenger_Car,      //1009
     CHT_2F_Passenger_Car,      //1010
