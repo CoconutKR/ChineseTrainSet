@@ -8,6 +8,8 @@ STR_GRF_URL                                      :https://github.com/KoreanGRF/K
 
 # locomotive's name
 STR_CRH1_NAME                                       :[CTS] CRH1
+STR_CRH1E_NAME                                      :[CTS] CRH1E
+STR_CRH1A_A_NAME                                    :[CTS] CRH1A-A
 STR_CRH3_NAME                                       :[CTS] CRH3
 STR_CRH380A_NAME                                    :[CTS] CRH380A
 STR_CRH380AJ_NAME                                   :[CTS] CRH380AJ
@@ -47,6 +49,8 @@ STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 �
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
 STR_REFIT_ADDITIONAL_CRH1                           :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1
+STR_REFIT_ADDITIONAL_CRH1E                          :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1E
+STR_REFIT_ADDITIONAL_CRH1A_A                        :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1A_A
 STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH3
 STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH380A, Vibrant Express, CRH430A
 STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}열차 실존여부 : {YELLOW}시험 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
