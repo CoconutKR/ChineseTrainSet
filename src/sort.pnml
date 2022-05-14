@@ -21,8 +21,7 @@ sort(FEAT_TRAINS, [
     Hyundai_Rotem_R,           //1029
     IKK_SP_1900,               //1030
 
-    CHT_1F_Passenger_Car,      //1009
-    CHT_2F_Passenger_Car,      //1010
+    CTS_Passenger_Car,         //1009
     China_Railway_Type_1F,     //1011
     China_Railway_Type_25_2F,  //1012
     China_Railway_Type_25_Bed_Car, //1013

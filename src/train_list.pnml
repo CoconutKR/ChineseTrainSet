@@ -1,5 +1,5 @@
 //wagon
-#include "wagon/passenger_wagon/passenger_wagon.pnml"
+#include "wagon/passenger_wagon/passenger_wagon_all.pnml"
 #include "wagon/China_Railway_Type_25/1F_Car/China_Railway_Type_25_1F_Car.pnml"
 #include "wagon/China_Railway_Type_25/2F_Car/China_Railway_Type_25_2F_Car.pnml"
 #include "wagon/China_Railway_Type_25/Bed_Car/China_Railway_Type_25_Bed_Car.pnml"

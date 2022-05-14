@@ -31,8 +31,7 @@ STR_MTR_Hyundai_Rotem_R_NAME                        :[CTS] MTR 현대로템 R형
 STR_MTR_IKK_SP_1900_NAME                            :[CTS] MTR IKK SP 1900
 
 # wagon's name
-STR_CHT_1F_PASS_NAME                                :[CTS] 1층 공통 객차
-STR_CHT_2F_PASS_NAME                                :[CTS] 2층 공통 객차
+STR_CTS_PASS_NAME                                   :[CTS] 승객 수송 차량
 STR_China_Railway_Type_25_1F_NAME                   :[CTS] 중국철도 25형 1층 객차
 STR_China_Railway_Type_25_2F_NAME                   :[CTS] 중국철도 25형 2층 객차
 STR_China_Railway_Type_25_Bed_Car_NAME              :[CTS] 중국철도 25형 침대차
@@ -70,8 +69,7 @@ STR_REFIT_ADDITIONAL_MTR_Hyundai_Rotem_R            :{BLACK}열차 실존여부 
 STR_REFIT_ADDITIONAL_MTR_IKK_SP_1900                :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
-STR_REFIT_train_configuration_1F                    :{BLACK}열차구성: {GREEN}1층 승객 차량용
-STR_REFIT_train_configuration_2F                    :{BLACK}열차구성: {GREEN}2층 승객 차량용
+STR_REFIT_train_configuration                       :{BLACK}열차구성: {GREEN}승객 차량용
 STR_REFIT_train_configuration_China_Railway_Type_25 :{BLACK}열차구성: {GREEN}중국철도 25형 객차
 
 # Liveries locomotive

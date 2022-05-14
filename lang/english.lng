@@ -31,8 +31,7 @@ STR_MTR_Hyundai_Rotem_R_NAME                        :[CTS] MTR Hyundai Rotem R T
 STR_MTR_IKK_SP_1900_NAME                            :[CTS] MTR IKK SP 1900
 
 # wagon's name
-STR_CHT_1F_PASS_NAME                                :[CTS] 1F Passenger Car
-STR_CHT_2F_PASS_NAME                                :[CTS] 2F Passenger Car
+STR_CTS_PASS_NAME                                   :[CTS] Passenger Car
 STR_China_Railway_Type_25_1F_NAME                   :[CTS] China Railway Type 25 1F Passenger Car
 STR_China_Railway_Type_25_2F_NAME                   :[CTS] China Railway Type 25 2F Passenger Car
 STR_China_Railway_Type_25_Bed_Car_NAME              :[CTS] China Railway Type 25 Bed Car
@@ -70,8 +69,7 @@ STR_REFIT_ADDITIONAL_MTR_Hyundai_Rotem_R            :{BLACK}Existence of trains 
 STR_REFIT_ADDITIONAL_MTR_IKK_SP_1900                :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
-STR_REFIT_train_configuration_1F                    :{BLACK}train configuration: {GREEN}1F passenger vehicles
-STR_REFIT_train_configuration_2F                    :{BLACK}train configuration: {GREEN}2F passenger vehicles
+STR_REFIT_train_configuration                       :{BLACK}train configuration: {GREEN}Passenger vehicles
 STR_REFIT_train_configuration_China_Railway_Type_25 :{BLACK}train configuration: {GREEN}China Railway Type 25 passenger vehicles
 
 # Liveries

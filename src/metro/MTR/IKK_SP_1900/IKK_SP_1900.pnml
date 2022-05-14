@@ -60,7 +60,7 @@ item(FEAT_TRAINS, IKK_SP_1900, 1030){
         additional_text:                string(STR_REFIT_ADDITIONAL_MTR_IKK_SP_1900);
         }
 
-    livery_override(CHT_1F_Passenger_Car) {
+    livery_override(CTS_Passenger_Car) {
         default:                        sw_MTR_IKK_SP_1900_wagon;
         cargo_capacity:                 80;
         loading_speed:                  25;

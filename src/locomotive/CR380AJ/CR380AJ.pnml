@@ -58,7 +58,7 @@ item(FEAT_TRAINS, CRH380AJ, 1019){
         additional_text:                string(STR_REFIT_ADDITIONAL_CRH380AJ);
         }
         
-    livery_override(CHT_1F_Passenger_Car) {
+    livery_override(CTS_Passenger_Car) {
         default:                        sw_CRH380AJ_wagon;
         cargo_capacity:                 0;
         running_cost_factor:            0;

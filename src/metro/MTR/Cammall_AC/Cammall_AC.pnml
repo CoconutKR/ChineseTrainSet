@@ -60,7 +60,7 @@ item(FEAT_TRAINS, MTR_AC_Cammall, 1024){
         additional_text:                string(STR_REFIT_ADDITIONAL_MTR_Cammall_AC);
         }
 
-    livery_override(CHT_1F_Passenger_Car) {
+    livery_override(CTS_Passenger_Car) {
         default:                        sw_MTR_AC_Cammall_wagon;
         cargo_capacity:                 80;
         loading_speed:                  25;

@@ -61,7 +61,7 @@ item(FEAT_TRAINS, AD_Tranz_CAF_A, 1023){
         additional_text:                string(STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A);
         }
 
-    livery_override(CHT_1F_Passenger_Car) {
+    livery_override(CTS_Passenger_Car) {
         default:                        sw_MTR_AD_Tranz_CAF_A_wagon;
         cargo_subtype_text:             sw_MTR_AD_Tranz_CAF_A_cargo_subtype_text;
         cargo_capacity:                 80;
