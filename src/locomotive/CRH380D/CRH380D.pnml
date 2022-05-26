@@ -67,3 +67,4 @@ item(FEAT_TRAINS, CRH380D, 1020){
         loading_speed:                  25;
         running_cost_factor:            150;
         }
+        }
