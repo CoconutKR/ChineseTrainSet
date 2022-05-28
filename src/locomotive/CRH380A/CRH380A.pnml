@@ -52,7 +52,6 @@ item(FEAT_TRAINS, CRH380A, 1018){
     graphics {
         default:                        sw_CRH380A_engine;
         purchase:                       sw_CRH380A_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;

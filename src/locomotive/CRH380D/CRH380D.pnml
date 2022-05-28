@@ -21,7 +21,7 @@ item(FEAT_TRAINS, CRH380D, 1020){
         dual_headed:                    1;
         
         //spec
-        speed:                          362km/h;
+        speed:                          380km/h;
         power:                          8000 kW;
         weight:                         40 ton;
         tractive_effort_coefficient:    0.3;
@@ -52,7 +52,6 @@ item(FEAT_TRAINS, CRH380D, 1020){
 	graphics {
         default:                        sw_CRH380D_engine;
         purchase:                       sw_CRH380D_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;

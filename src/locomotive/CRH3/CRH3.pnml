@@ -21,7 +21,7 @@ item(FEAT_TRAINS, CRH3, 1017){
         dual_headed:                    1;
         
         //spec
-        speed:                          362km/h;
+        speed:                          350km/h;
         power:                          8000 kW;
         weight:                         40 ton;
         tractive_effort_coefficient:    0.3;
@@ -52,7 +52,6 @@ item(FEAT_TRAINS, CRH3, 1017){
     graphics {
         default:                        sw_CRH3_engine;
         purchase:                       sw_CRH3_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;

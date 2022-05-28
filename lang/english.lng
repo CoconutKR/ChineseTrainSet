@@ -7,10 +7,10 @@ STR_GRF_DESC                                     :{BLACK}China Train Set adds Ch
 STR_GRF_URL                                      :https://github.com/GBLINER/ChineseTrainSet
 
 # locomotive's name
-STR_CRH1_NAME                                       :[CTS] CRH1
+STR_CRH1_NAME                                       :[CTS] CRH1A
 STR_CRH1E_NAME                                      :[CTS] CRH1E
 STR_CRH1A_A_NAME                                    :[CTS] CRH1A-A
-STR_CRH3_NAME                                       :[CTS] CRH3
+STR_CRH3_NAME                                       :[CTS] CRH3C
 STR_CRH380A_NAME                                    :[CTS] CRH380A
 STR_CRH380AJ_NAME                                   :[CTS] CRH380AJ
 STR_CRH380D_NAME                                    :[CTS] CRH380D

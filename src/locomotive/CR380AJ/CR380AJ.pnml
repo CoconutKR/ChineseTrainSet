@@ -21,8 +21,8 @@ item(FEAT_TRAINS, CRH380AJ, 1019){
         dual_headed:                    1;
         
         //spec
-        speed:                          600km/h;
-        power:                          10000 kW;
+        speed:                          380km/h;
+        power:                          8000 kW;
         weight:                         40 ton;
         tractive_effort_coefficient:    0.3;
         
