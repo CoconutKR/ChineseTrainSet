@@ -2,9 +2,9 @@
 ##gender m f
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :중국 열차 세트 {VERSION}
-STR_GRF_DESC                                     :중국 열차 세트입니다
-STR_GRF_URL                                      :https://github.com/KoreanGRF/KoreanEmptySet
+STR_GRF_NAME_WITH_VER                            :중국 열차 세트 v{VERSION}
+STR_GRF_DESC                                     :{BLACK}중국열차세트는 중국의 CRH와 여러 열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다. {}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작: 경부라이너
+STR_GRF_URL                                      :https://github.com/GBLINER/ChineseTrainSet
 
 # locomotive's name
 STR_CRH1_NAME                                       :[CTS] CRH1
@@ -21,14 +21,14 @@ STR_CR400_NAME                                      :[CTS] CR400
 STR_NJ2_NAME                                        :[CTS] NJ2
 
 # Metro's name
-STR_MTR_AD_Tranz_CAF_A_NAME                         :[CTS] MTR AD Tranz CAF A형
-STR_MTR_AC_Cammall_NAME                             :[CTS] MTR 메트로카멜 교류형 전동차
-STR_MTR_DC_Cammall_NAME                             :[CTS] MTR 메트로카멜 직류형 전동차
-STR_MTR_CNR_Changchun_NAME                          :[CTS] MTR CNR 창춘 전동차
-STR_MTR_CRRC_NAME                                   :[CTS] MTR CRRC 전동차
-STR_MTR_Hyundai_Rotem_Mitsubishi_NAME               :[CTS] MTR 현대로템 미쓰비시 전동차
-STR_MTR_Hyundai_Rotem_R_NAME                        :[CTS] MTR 현대로템 R형 전동차
-STR_MTR_IKK_SP_1900_NAME                            :[CTS] MTR IKK SP 1900
+STR_MTR_AD_Tranz_CAF_A_NAME                         :[CTS] 홍콩 MTR AD Tranz CAF A형
+STR_MTR_AC_Cammall_NAME                             :[CTS] 홍콩 MTR 메트로카멜 교류형 전동차
+STR_MTR_DC_Cammall_NAME                             :[CTS] 홍콩 MTR 메트로카멜 직류형 전동차
+STR_MTR_CNR_Changchun_NAME                          :[CTS] 홍콩 MTR CNR 창춘 전동차
+STR_MTR_CRRC_NAME                                   :[CTS] 홍콩 MTR CRRC 전동차
+STR_MTR_Hyundai_Rotem_Mitsubishi_NAME               :[CTS] 홍콩 MTR 현대로템 미쓰비시 전동차
+STR_MTR_Hyundai_Rotem_R_NAME                        :[CTS] 홍콩 MTR 현대로템 R형 전동차
+STR_MTR_IKK_SP_1900_NAME                            :[CTS] 홍콩 MTR IKK SP 1900
 
 # wagon's name
 STR_CTS_PASS_NAME                                   :[CTS] 승객 수송 차량
@@ -47,26 +47,23 @@ STR_PARAM_High_SPEED_Train_430_NAME                 :고속열차 속도변수 (
 STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 조정합니다. (기본:430km/h)
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
-STR_REFIT_ADDITIONAL_CRH1                           :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1
-STR_REFIT_ADDITIONAL_CRH1E                          :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1E
-STR_REFIT_ADDITIONAL_CRH1A_A                        :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1A_A
-STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH3
-STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH380A, Vibrant Express, CRH430A
-STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}열차 실존여부 : {YELLOW}시험 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH380D
-STR_REFIT_ADDITIONAL_CRH430A                        :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH380A, CRH380A Red, CRH430A
-STR_REFIT_ADDITIONAL_CRH430D                        :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH430D
-STR_REFIT_ADDITIONAL_CRH600D                        :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH600D
-STR_REFIT_ADDITIONAL_CR400                          :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CR400
-STR_REFIT_ADDITIONAL_NJ2                            :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}BB15000, GT26CW, HYEL-100, NJ2
-STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A             :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_Cammall_AC                 :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_Cammall_DC                 :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_CNR_Changchun              :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_CRRC                       :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_Hyundai_Rotem_Mitsubishi   :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_Hyundai_Rotem_R            :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
-STR_REFIT_ADDITIONAL_MTR_IKK_SP_1900                :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_CRH1                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1
+STR_REFIT_ADDITIONAL_CRH1E                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1E
+STR_REFIT_ADDITIONAL_CRH1A_A                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1A-A
+STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH3
+STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH380A
+STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH380D
+STR_REFIT_ADDITIONAL_CR400                          :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CR400
+STR_REFIT_ADDITIONAL_NJ2                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}NJ2
+STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A             :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_Cammall_AC                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_Cammall_DC                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_CNR_Changchun              :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_CRRC                       :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_Hyundai_Rotem_Mitsubishi   :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_Hyundai_Rotem_R            :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_MTR_IKK_SP_1900                :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration                       :{BLACK}열차구성: {GREEN}승객 차량용
@@ -74,7 +71,7 @@ STR_REFIT_train_configuration_China_Railway_Type_25 :{BLACK}열차구성: {GREEN
 
 # Liveries locomotive
 STR_REFIT_LIVERY_CRH380A                            :(CRH380A)
-STR_REFIT_LIVERY_Vibrant_Express                    :(Vibrant Express)
+STR_REFIT_LIVERY_Vibrant_Express                    :(바이브런트 익스프레스)
 STR_REFIT_LIVERY_CR400AF                            :(CR400AF)
 STR_REFIT_LIVERY_CR400BF                            :(CR400BF)
 
