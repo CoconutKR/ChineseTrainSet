@@ -51,7 +51,7 @@ STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 �
 STR_REFIT_ADDITIONAL_CRH1                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1
 STR_REFIT_ADDITIONAL_CRH1E                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1E
 STR_REFIT_ADDITIONAL_CRH1A_A                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH1A-A
-STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH3
+STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH3C
 STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CRH380A
 STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CRH380D

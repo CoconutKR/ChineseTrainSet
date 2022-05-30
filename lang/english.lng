@@ -51,7 +51,7 @@ STR_PARAM_High_SPEED_Train_430_DESC                 :Adjust the speed of the hig
 STR_REFIT_ADDITIONAL_CRH1                           :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH1
 STR_REFIT_ADDITIONAL_CRH1E                          :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH1E
 STR_REFIT_ADDITIONAL_CRH1A_A                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH1A-A
-STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH3
+STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH3C
 STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}CRH380A
 STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}CRH380D
