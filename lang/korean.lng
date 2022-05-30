@@ -18,6 +18,7 @@ STR_CR400AF_NAME                                    :[CTS] CR400AF-A·B·G
 STR_CR400AF_Z_NAME                                  :[CTS] CR400AF-Z·BZ·C
 STR_CR400BF_NAME                                    :[CTS] CR400BF-A·B·G
 STR_CR400BF_C_NAME                                  :[CTS] CR400BF-C
+STR_CR400BF_Z_NAME                                  :[CTS] CR400BF-Z·BZ·GZ
 STR_NJ2_NAME                                        :[CTS] NJ2
 
 # Metro's name
@@ -58,6 +59,7 @@ STR_REFIT_ADDITIONAL_CR400AF                        :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_CR400AF_Z                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CR400AF-Z·BZ·C
 STR_REFIT_ADDITIONAL_CR400BF                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CR400BF-A·B·G
 STR_REFIT_ADDITIONAL_CR400BF_C                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CR400BF-C
+STR_REFIT_ADDITIONAL_CR400BF_Z                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CR400BF-Z·BZ·GZ
 STR_REFIT_ADDITIONAL_NJ2                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}NJ2
 STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A             :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_MTR_Cammall_AC                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능

@@ -13,6 +13,7 @@ sort(FEAT_TRAINS, [
     CR400AF_Z,                 //1103
     CR400BF,                   //1102
     CR400BF_C,                 //1104
+    CR400BF_Z,                 //1105
     NJ2,                       //1022
     
     AD_Tranz_CAF_A,            //1023
