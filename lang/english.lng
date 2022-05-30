@@ -17,6 +17,7 @@ STR_CRH380D_NAME                                    :[CTS] CRH380D
 STR_CR400AF_NAME                                    :[CTS] CR400AF-A·B·G
 STR_CR400AF_Z_NAME                                  :[CTS] CR400AF-Z·BZ·C
 STR_CR400BF_NAME                                    :[CTS] CR400BF-A·B·G
+STR_CR400BF_C_NAME                                  :[CTS] CR400BF-C
 STR_NJ2_NAME                                        :[CTS] NJ2
 
 # Metro's name
@@ -56,6 +57,7 @@ STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_CR400AF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF-A·B·G
 STR_REFIT_ADDITIONAL_CR400AF_Z                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF-Z·BZ·C
 STR_REFIT_ADDITIONAL_CR400BF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400BF-A·B·G
+STR_REFIT_ADDITIONAL_CR400BF_C                      :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}CR400BF-C
 STR_REFIT_ADDITIONAL_NJ2                            :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}NJ2
 STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A             :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_MTR_Cammall_AC                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
@@ -73,6 +75,8 @@ STR_REFIT_train_configuration_China_Railway_Type_25 :{BLACK}train configuration:
 # Liveries
 STR_REFIT_LIVERY_CRH380A                            :(CRH380A)
 STR_REFIT_LIVERY_Vibrant_Express                    :(Vibrant Express)
+STR_REFIT_LIVERY_CR400BF_C                          :(Golden Phoenix Livery)
+STR_REFIT_LIVERY_CR400BF_C_O                        :(Beijing 2022 Winter Olympics Livery)
 
 # Liveries metro
 STR_REFIT_LIVERY_MTR_AD_Tranz_CAF_A_Airport_Express :(MTR AD Tranz CAF A Type Airport Express)

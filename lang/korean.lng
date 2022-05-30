@@ -17,6 +17,7 @@ STR_CRH380D_NAME                                    :[CTS] CRH380D
 STR_CR400AF_NAME                                    :[CTS] CR400AF-A·B·G
 STR_CR400AF_Z_NAME                                  :[CTS] CR400AF-Z·BZ·C
 STR_CR400BF_NAME                                    :[CTS] CR400BF-A·B·G
+STR_CR400BF_C_NAME                                  :[CTS] CR400BF-C
 STR_NJ2_NAME                                        :[CTS] NJ2
 
 # Metro's name
@@ -56,6 +57,7 @@ STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_CR400AF                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CR400AF-A·B·G
 STR_REFIT_ADDITIONAL_CR400AF_Z                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CR400AF-Z·BZ·C
 STR_REFIT_ADDITIONAL_CR400BF                        :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}CR400BF-A·B·G
+STR_REFIT_ADDITIONAL_CR400BF_C                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CR400BF-C
 STR_REFIT_ADDITIONAL_NJ2                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}NJ2
 STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A             :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_MTR_Cammall_AC                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
@@ -73,6 +75,8 @@ STR_REFIT_train_configuration_China_Railway_Type_25 :{BLACK}열차구성: {GREEN
 # Liveries locomotive
 STR_REFIT_LIVERY_CRH380A                            :(CRH380A)
 STR_REFIT_LIVERY_Vibrant_Express                    :(바이브런트 익스프레스)
+STR_REFIT_LIVERY_CR400BF_C                          :(일반 도색)
+STR_REFIT_LIVERY_CR400BF_C_O                        :(2022 베이징동계올림픽 도색)
 
 # Liveries metro
 STR_REFIT_LIVERY_MTR_AD_Tranz_CAF_A_Airport_Express :(MTR AD Tranz CAF A Type Airport Express)
