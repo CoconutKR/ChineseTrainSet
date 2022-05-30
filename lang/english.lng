@@ -15,6 +15,7 @@ STR_CRH380A_NAME                                    :[CTS] CRH380A
 STR_CRH380AJ_NAME                                   :[CTS] CRH380AJ
 STR_CRH380D_NAME                                    :[CTS] CRH380D
 STR_CR400AF_NAME                                    :[CTS] CR400AF-A·B·G
+STR_CR400AF_Z_NAME                                  :[CTS] CR400AF-Z·BZ·C
 STR_CR400BF_NAME                                    :[CTS] CR400BF-A·B·G
 STR_NJ2_NAME                                        :[CTS] NJ2
 
@@ -52,8 +53,9 @@ STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}CRH380A
 STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}CRH380D
-STR_REFIT_ADDITIONAL_CR400AF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF
-STR_REFIT_ADDITIONAL_CR400BF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400BF
+STR_REFIT_ADDITIONAL_CR400AF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF-A·B·G
+STR_REFIT_ADDITIONAL_CR400AF_Z                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF-Z·BZ·C
+STR_REFIT_ADDITIONAL_CR400BF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400BF-A·B·G
 STR_REFIT_ADDITIONAL_NJ2                            :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}NJ2
 STR_REFIT_ADDITIONAL_MTR_AD_Tranz_CAF_A             :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_MTR_Cammall_AC                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
