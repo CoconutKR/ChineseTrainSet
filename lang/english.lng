@@ -16,6 +16,7 @@ STR_CRH3_NAME                                       :[CTS] CRH3C
 STR_CRH380A_NAME                                    :[CTS] CRH380A·AL
 STR_CRH380AJ_NAME                                   :[CTS] CRH380AJ
 STR_CRH380B_NAME                                    :[CTS] CRH380B·BL·BG
+STR_CRH380C_NAME                                    :[CTS] CRH380CL
 STR_CRH380D_NAME                                    :[CTS] CRH380D
 STR_CR400AF_NAME                                    :[CTS] CR400AF-A·B·G
 STR_CR400AF_Z_NAME                                  :[CTS] CR400AF-Z·BZ·C
@@ -60,7 +61,8 @@ STR_REFIT_ADDITIONAL_CRH3                           :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_CRH380A                        :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}CRH380A·AL
 STR_REFIT_ADDITIONAL_CRH380AJ                       :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_CRH380B                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH380B·BL·BG
-STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}CRH380D
+STR_REFIT_ADDITIONAL_CRH380C                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH380CL
+STR_REFIT_ADDITIONAL_CRH380D                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CRH380D
 STR_REFIT_ADDITIONAL_CR400AF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF-A·B·G
 STR_REFIT_ADDITIONAL_CR400AF_Z                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400AF-Z·BZ·C
 STR_REFIT_ADDITIONAL_CR400BF                        :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}CR400BF-A·B·G

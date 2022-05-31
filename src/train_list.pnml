@@ -15,6 +15,7 @@
 #include "locomotive/CRH3/CRH3.pnml"
 #include "locomotive/CRH380A/CRH380A.pnml"
 #include "locomotive/CRH380B/CRH380B.pnml"
+#include "locomotive/CRH380C/CRH380C.pnml"
 #include "locomotive/CRH380D/CRH380D.pnml"
 #include "locomotive/CR380AJ/CR380AJ.pnml"
 #include "locomotive/CR400AF/CR400AF.pnml"
