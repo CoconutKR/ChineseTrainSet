@@ -4,6 +4,7 @@
 * CRH380B·BL·BG
 * CRH2A·B
 * CRH2C
+* CRH380CL
 
 2022.05.30
 기존 CR400을 CR400AF, CR400BF으로 분리하고 파생형을 추가하였습니다.
