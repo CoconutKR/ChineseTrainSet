@@ -5,6 +5,7 @@ sort(FEAT_TRAINS, [
     CRH1,                      //1016
     CRH1E,                     //1096
     CRH1A_A,                   //1097
+    CRH2,                      //1107
     CRH3,                      //1017
     CRH380A,                   //1018
     CRH380B,                   //1106

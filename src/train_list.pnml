@@ -7,19 +7,20 @@
 #include "wagon/China_Railway_Type_25/Generatar_Car/China_Railway_Type_25_Generatar_Car.pnml"
 
 //locomotive
+#include "locomotive/CRH1/CRH1.pnml"
+#include "locomotive/CRH1E/CRH1E.pnml"
+#include "locomotive/CRH1A_A/CRH1A_A.pnml"
+#include "locomotive/CRH2/CRH2.pnml"
+#include "locomotive/CRH3/CRH3.pnml"
+#include "locomotive/CRH380A/CRH380A.pnml"
+#include "locomotive/CRH380B/CRH380B.pnml"
+#include "locomotive/CRH380D/CRH380D.pnml"
 #include "locomotive/CR380AJ/CR380AJ.pnml"
 #include "locomotive/CR400AF/CR400AF.pnml"
 #include "locomotive/CR400AF_Z/CR400AF_Z.pnml"
 #include "locomotive/CR400BF/CR400BF.pnml"
 #include "locomotive/CR400BF_C/CR400BF_C.pnml"
 #include "locomotive/CR400BF_Z/CR400BF_Z.pnml"
-#include "locomotive/CRH1/CRH1.pnml"
-#include "locomotive/CRH1E/CRH1E.pnml"
-#include "locomotive/CRH1A_A/CRH1A_A.pnml"
-#include "locomotive/CRH3/CRH3.pnml"
-#include "locomotive/CRH380A/CRH380A.pnml"
-#include "locomotive/CRH380B/CRH380B.pnml"
-#include "locomotive/CRH380D/CRH380D.pnml"
 #include "locomotive/NJ2/NJ2.pnml"
 
 //Metro
