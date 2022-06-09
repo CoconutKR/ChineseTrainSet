@@ -18,6 +18,7 @@ sort(FEAT_TRAINS, [
     CR400BF_C,                 //1104
     CR400BF_Z,                 //1105
     CRH380AJ,                  //1019
+    HXD3C,                     //1111
     NJ2,                       //1022
     
     AD_Tranz_CAF_A,            //1023

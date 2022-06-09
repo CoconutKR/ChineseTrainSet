@@ -23,6 +23,7 @@
 #include "locomotive/CR400BF/CR400BF.pnml"
 #include "locomotive/CR400BF_C/CR400BF_C.pnml"
 #include "locomotive/CR400BF_Z/CR400BF_Z.pnml"
+#include "locomotive/HXD3C/HXD3C.pnml"
 #include "locomotive/NJ2/NJ2.pnml"
 
 //Metro
