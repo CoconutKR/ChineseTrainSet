@@ -55,7 +55,7 @@ item(FEAT_TRAINS, CR400BF_Z, 1105){
         cost_factor:                    10;
         running_cost_factor:            150;
         can_attach_wagon:               sw_CR400BF_Z_wagon_attach;
-        start_stop:                     sw_YST_train_start_stop_6;
+        start_stop:                     sw_CTS_train_start_stop_6;
         additional_text:                string(STR_REFIT_ADDITIONAL_CR400BF_Z);
         }
         

@@ -2,17 +2,17 @@
 YFX
 --------------------------------------------------------------------*/
 // Graphics
-#include "China_Railway_Type_25_Luggage_Car_graphic.pnml"
+#include "SPassenger_Wagon_graphic.pnml"
 
 // Switch
-#include "China_Railway_Type_25_Luggage_Car_switch.pnml"
+#include "SPassenger_Wagon_switch.pnml"
 
 /*--------------------------------------------------------------------
 열차정보
 --------------------------------------------------------------------*/
-item(FEAT_TRAINS, China_Railway_Type_25_Luggage_Car, 1015){
+item(FEAT_TRAINS, CTS_SPassenger_Car, 1011){
     property {
-        name:                           string(STR_China_Railway_Type_25_Luggage_Car_NAME);
+        name:                           string(STR_CTS_SPASS_NAME);
         climates_available:             ALL_CLIMATES;
         introduction_date:              date(1967, 1, 1);
         track_type:                     RAIL;
@@ -30,10 +30,10 @@ item(FEAT_TRAINS, China_Railway_Type_25_Luggage_Car, 1015){
         reliability_decay:              0;
         
         //Cargo
-        cargo_capacity:                 200;
+        cargo_capacity:                 100;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
-        cargo_allow_refit:              [MAIL, VALU];
+        cargo_allow_refit:              [PASS];
         cargo_disallow_refit:           [];
         
         //Costs
@@ -45,13 +45,13 @@ item(FEAT_TRAINS, China_Railway_Type_25_Luggage_Car, 1015){
         }
 
 	graphics {
-        default:                        sw_China_Railway_Type_25_Luggage_wagon;
-        purchase:                       sw_China_Railway_Type_25_Luggage_Car_purchase;
+        default:                        sw_SWagon;
+        purchase:                       sw_SWagon_purchase;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            50;
-        can_attach_wagon:               sw_China_Railway_Type_25_Luggage_wagon_attach;
-        cargo_subtype_text:             sw_China_Railway_Type_25_Luggage_cargo_subtype_text;
+        cargo_capacity:                 sw_SWagon_capacity_in_custom;
+        cargo_subtype_text:             sw_SWagon_cargo_subtype_text;
         additional_text:                string(STR_REFIT_train_configuration_China_Railway_Type_25);
         }
         }
