@@ -42,9 +42,6 @@ STR_CTS_SPASS_NAME                                  :[CTS] carriage-type passeng
 STR_Generatar_Car_NAME                              :[CTS] Generatar Car
 STR_Luggage_Car_NAME                                :[CTS] Luggage Car
 
-STR_China_Railway_Type_25_2F_NAME                   :[CTS] To be removed in the next update
-STR_China_Railway_Type_25_Bed_Car_NAME              :[CTS] To be removed in the next update
-
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :Regular Train Speed Variable
 STR_PARAM_Regular_SPEED_Train_DESC                  :Adjust the speed of the Regular-speed train (Default:151km/h)
@@ -86,7 +83,6 @@ STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration:
 STR_REFIT_train_configuration_SPassenger            :{BLACK}train configuration: {GREEN}Passenger vehicles
 STR_REFIT_train_configuration_Generatar             :{BLACK}train configuration: {GREEN}Generatar vehicles
 STR_REFIT_train_configuration_Luggage               :{BLACK}train configuration: {GREEN}Luggage vehicles
-STR_REFIT_train_configuration_China_Railway_Type_25 :{BLACK}train configuration: {GREEN}China Railway Type 25 passenger vehicles
 
 # Liveries
 STR_REFIT_LIVERY_CRH380A                            :(CRH380A)
@@ -108,9 +104,6 @@ STR_REFIT_LIVERY_MTR_Hyundai_Rotem_R_Nomal          :(MTR Hyundai Rotem R Type N
 STR_REFIT_LIVERY_MTR_Hyundai_Rotem_R_special        :(MTR Hyundai Rotem R Type special)
 
 # Liveries wagon
-STR_REFIT_LIVERY_China_Railway_Type_25_3nd_Car      :(To be removed in the next update)
-STR_REFIT_LIVERY_China_Railway_Type_25_2nd_Car      :(To be removed in the next update)
-STR_REFIT_LIVERY_China_Railway_Type_25_1nd_Car      :(To be removed in the next update)
 STR_REFIT_LIVERY_SWagon_1F_Red                      :(25 Type 1F Red Color Car)
 STR_REFIT_LIVERY_SWagon_1F_Green                    :(25 Type 1F Green Color Car)
 STR_REFIT_LIVERY_Swagon_1F_White                    :(25 Type 1F White Color Car)

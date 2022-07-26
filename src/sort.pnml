@@ -34,6 +34,4 @@ sort(FEAT_TRAINS, [
     CTS_SPassenger_Car,        //1011
     Generatar_Car,             //1014
     Luggage_Car,               //1015
-    China_Railway_Type_25_2F,  //1012
-    China_Railway_Type_25_Bed_Car, //1013
     ]);
