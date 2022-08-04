@@ -80,7 +80,7 @@ STR_REFIT_ADDITIONAL_MTR_IKK_SP_1900                :{BLACK}Changing model/liver
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration: {GREEN}Passenger vehicles
-STR_REFIT_train_configuration_SPassenger            :{BLACK}train configuration: {GREEN}Passenger vehicles
+STR_REFIT_train_configuration_SPassenger            :{BLACK}train configuration: {GREEN}carriage-type Passenger vehicles
 STR_REFIT_train_configuration_Generatar             :{BLACK}train configuration: {GREEN}Generatar vehicles
 STR_REFIT_train_configuration_Luggage               :{BLACK}train configuration: {GREEN}Luggage vehicles
 
