@@ -1,5 +1,5 @@
-# Chinese Train Set 중국열차세트
-**중국열차세트**는 중국의 열차 차량을 추가해주는 OpenTTD NewGRF입니다.  
+# Chinese Train Set
+**중국 열차 세트**는 중국의 열차 차량을 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/ChineseTrainSet/releases)에서 다운로드할 수 있습니다.
 
 ## 차량 목록 및 스펙
@@ -10,10 +10,6 @@
 터미널 쉘에서 ``make``를 실행하세요. Windows 환경이라면, 그 전에 명령 프롬포트를 열고 ``bash``를 입력하세요.  
 ``make clean``을 입력하면 모든 생성된 파일이 초기화됩니다.
 
-## 자료제공
-본 중국열차세트는 YST에서 분리된 GRF로 일부 스프라이트는 YST에서 제작되었습니다.
-- [YST](https://github.com/evepoi/YST)
-
-## 저작권
+## 라이선스
 이 NewGRF는 크리에이티브 커먼스 라이선스 v3.0 (CC-BY-NC-SA v3.0)을 따릅니다. <br>
 이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다.
