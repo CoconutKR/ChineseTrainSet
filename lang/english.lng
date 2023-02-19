@@ -37,8 +37,8 @@ STR_MTR_Hyundai_Rotem_R_NAME                        :[CTS] MTR Hyundai Rotem R T
 STR_MTR_IKK_SP_1900_NAME                            :[CTS] MTR IKK SP 1900
 
 # wagon's name
-STR_CTS_PASS_NAME                                   :[CTS] Passenger transport vehicle
-STR_CTS_SPASS_NAME                                  :[CTS] carriage-type passenger transport vehicle
+STR_CTS_PASS_NAME                                   :[CTS] Passenger car
+STR_CTS_SPASS_NAME                                  :[CTS] carriage-type passenger car
 STR_Generatar_Car_NAME                              :[CTS] Generatar Car
 STR_Luggage_Car_NAME                                :[CTS] Luggage Car
 
